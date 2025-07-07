@@ -4,8 +4,8 @@
   "description": "A comprehensive personal expense tracker to manage finances and analyze spending habits",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "dev": "nodemon server.js"
+    "start": "node app.js",
+    "dev": "nodemon node.js"
   },
   "keywords": [
     "nodejs",
